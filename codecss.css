@@ -1,0 +1,21 @@
+.div1{
+ width:550px;
+ height:660px;
+  text-align:center;   
+  margin: 0 auto;
+  padding: 10px;
+  background-color:skyblue;
+  border-radius: 10px; 
+  font-family:微軟正黑體,Verdana,Arial;
+}
+.div2{
+  width:550px;
+ height:660px;
+  line-height:50px;
+  text-align:center;
+  margin: 0 auto;
+  padding: 10px;
+  background-color:#D2E9FF;
+  border-radius: 10px;
+  font-family:微軟正黑體,Verdana,Arial;
+}
